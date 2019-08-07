@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Save Our Ship (Reincarnated) !!INSTABLE!!</name>
+  <author>Antharann Fireblade</author>
+  <url></url>
+  <supportedVersions>
+		<li>1.0</li>
+  </supportedVersions>
+<description>
+Launched ships are saved to disk and can be landed on new worlds. Also allows building ships with interiors.
+
+You can also send your ships into orbit and have a colony in space
+
+!!WARNING!!
+HIGHLY INSTABLE, RIDDLED WITH BUGS!!
+CAN TEAR APART YOUR SHIP WITH THE ORBIT FEATURE!!
+!!WARNING!!
+
+GitHub for error reports: https://github.com/FirebladeProduction/save-our-ship/tree/benwan
+Development Discord Server, modders welcome: https://discord.gg/9Xa4FKf
+
+Based on Save Our Ship (Reloaded) by pipakin:
+https://steamcommunity.com/sharedfiles/filedetails/?id=1541262111
+
+</description>
+</ModMetaData>

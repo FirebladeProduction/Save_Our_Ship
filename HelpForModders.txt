@@ -1,0 +1,7 @@
+This is a file for some info for mod integration
+
+Tag List:
+<li>EVA_Helmet<li>
+<li>EVA_GasTank<li>
+used to detect space gear, a char needs to wear items with both tags (one helmet and one gastank) or the char will suffocate when in orbit
+(the pressure issue in the space craft is not fixed yet)
